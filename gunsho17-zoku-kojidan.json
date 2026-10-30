@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/zoku-kojidan",
  "yomi": "ぞくこじだん",
  "category": "説話",
- "description": null,
+ "description": {
+  "kind": "説話集",
+  "era": "建保7年（1219）4月",
+  "author": "未詳",
+  "desc": "『古事談』にならい、王道后宮・臣節・諸道などの説話を集めたもの。跋に、書き集めて忘れていた古い物語を建保7年4月に書き記したとある。"
+ },
  "editions": [
   {
    "pid": "1879565",
