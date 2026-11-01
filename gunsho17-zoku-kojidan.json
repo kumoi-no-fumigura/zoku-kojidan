@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 39,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho17-zoku-kojidan-0001",
@@ -827,6 +830,7 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T13:05:27+09:00"
+  "updated_at": "2026-11-01T13:05:27+09:00",
+  "yaku": 39
  }
 }
